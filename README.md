@@ -2,7 +2,7 @@
 - A movie recommender system, which suggests top 5 similar movies which the user can watch with respect to a particular movie selected. 
 - In this project, content based recommendation has been used. 
 
-# How to run the strean lit application ?
+# How to run the streamlit application ?
 - For running the streamlit application, run the following code in the terminal
 ```
 streamlit run app.py
