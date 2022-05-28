@@ -13,7 +13,7 @@ streamlit run app.py
 # Project Screenshot
 
 - Home page
-<img src="https://github.com/Sagar-Wadhwa-726/Movie-Recommendor-System/blob/master/ProjectScreenshots/Screenshot%202022-05-28%20204434.png" height="350" width="1200">
+<img src="https://github.com/Sagar-Wadhwa-726/Movie-Recommendor-System/blob/master/ProjectScreenshots/Screenshot%202022-05-28%20204434.png" height="400" width="1210">
 <br />
 
 
